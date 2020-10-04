@@ -3,8 +3,8 @@ import React from 'react'
 function History() {
     return (
         <div>
-            <table class="table">
-                <thead class="thead-dark">
+            <table className="table">
+                <thead className="thead-dark">
                     <tr>
                         <th scope="col">#</th>
                         <th scope="col">First</th>
@@ -34,8 +34,8 @@ function History() {
                 </tbody>
             </table>
 
-            <table class="table">
-                <thead class="thead-light">
+            <table className="table">
+                <thead className="thead-light">
                     <tr>
                         <th scope="col">#</th>
                         <th scope="col">First</th>
